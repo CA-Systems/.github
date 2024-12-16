@@ -18,7 +18,7 @@ Welcome to the coolest corner of the codebase! We're the team that makes the mag
 ## 🛠️ Our Projects
 
 ### Discord Bot
-Bringing communities together, one meme command at a time. Features include:
+Bringing the mod team together, one meme command at a time. Features include:
 - Moderation management
 - Nice commands
 - Probably some stuff we forgot about
